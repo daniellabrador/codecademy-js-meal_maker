@@ -1,6 +1,6 @@
 # **Meal Maker**
 
-The Meal Maker program creates a random three-course meal based on what is available in a menu object. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), has been an invaluable exercise in using objects with JavaScript.
+The Meal Maker program creates a random three-course meal based on what is available in the `menu` object. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/introduction-to-javascript), has been an invaluable exercise in using objects with JavaScript.
 
 ## Table of Contents
 
